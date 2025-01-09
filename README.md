@@ -1,5 +1,6 @@
 # 👋 Hi, I’m Yi-Syuan (Angel) Ren
 
+### Major Projects
 <!-- table -->
 <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
 | Year | Title                                             | Field                   | Technologies                   |
